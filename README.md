@@ -1,2 +1,2 @@
-# YesLab
+# python_demo
 Initial learning
